@@ -1,5 +1,3 @@
-Python 3.9.0 (tags/v3.9.0:9cf6752, Oct  5 2020, 15:34:40) [MSC v.1927 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
 >>>### `configs/experiment_config.py`
 ```python
 # Corresponding Section: 6.2 Experimental Setup, Table 7 Injection settings and key parameters
@@ -87,3 +85,4 @@ DATASET_INJECT_ATTRS = {
     "BPIC2012": ["AMOUNT_REQ"],
     "Synthetic": ["order_quantity", "delivery_date"]
 }
+
