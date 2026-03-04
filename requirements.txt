@@ -1,0 +1,21 @@
+# Core process mining framework
+pm4py==2.7.11
+# Data processing and numerical computation
+pandas==2.2.2
+numpy==1.26.4
+# Graph algorithms (DDG depends on graph construction)
+networkx==3.3
+# Machine learning baseline methods
+scikit-learn==1.5.1
+# Deep learning baseline methods (LSTM-PPM/BINet)
+tensorflow==2.15.0
+# DMN decision model execution
+pydmn==0.2.1
+# Visualization and result plotting
+matplotlib==3.9.0
+seaborn==0.13.2
+# Utility classes
+python-dateutil==2.9.0.post0
+openpyxl==3.1.5
+# Unit testing
+pytest==8.3.3
